@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useState } from "react";
-import { Bike, DollarSign, Clock, MapPin, Phone, CheckCircle2, Navigation } from "lucide-react";
+import { Bike, DollarSign, Clock, MapPin, CheckCircle2, Navigation } from "lucide-react";
 import { ResponsiveContainer, LineChart, Line, XAxis, YAxis, Tooltip } from "recharts";
 
 export const Route = createFileRoute("/delivery")({

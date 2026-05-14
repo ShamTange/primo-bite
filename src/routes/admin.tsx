@@ -1,4 +1,4 @@
-import { createFileRoute, Link, useRouterState } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { LayoutDashboard, ShoppingBag, Package, Users, Settings, ChevronRight, ArrowUpRight, ArrowDownRight, DollarSign } from "lucide-react";
 import { ResponsiveContainer, AreaChart, Area, XAxis, YAxis, Tooltip, BarChart, Bar, CartesianGrid } from "recharts";
 import { pizzas } from "@/lib/data";
